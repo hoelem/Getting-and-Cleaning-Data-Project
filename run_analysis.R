@@ -1,6 +1,6 @@
 ######################################################
 ## title: "CodeBook.md"
-## author: "Eric Hoel"
+## author: "Eric H"
 ## date: "January 31, 2016"
 ## 
 ## runAnalysis.r
